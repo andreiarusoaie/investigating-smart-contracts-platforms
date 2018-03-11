@@ -1,1 +1,1 @@
-# eth-vm-coq
+# Investigating-smart-contracts-platforms
